@@ -1,0 +1,4 @@
+[submodule "openproject-helm-charts"]
+	path = /home/aatyagi/Documents/ATWorkPlace0002/openproject-helm-charts/
+	url = https://github.com/Me-Cloud-R001/openproject-helm-charts.git
+	branch = at-integration-0001-for-refs
