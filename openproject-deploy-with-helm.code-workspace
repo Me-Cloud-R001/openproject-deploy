@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../openproject-helm-charts"
+		},
+		{
+			"path": "../openproject"
 		}
 	],
 	"settings": {}
